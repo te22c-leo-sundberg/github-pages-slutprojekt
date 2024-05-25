@@ -1,0 +1,21 @@
+body.dark {
+    background: #000000;
+}
+button.dark {
+    background: #82624c;
+}
+.container h1.dark {
+    color: #c89c7c;
+}
+.float-child-info.dark {
+    border:3px solid #82624c;
+}
+.picture.dark {
+    border-top: 3px solid #82624c;
+}
+.profile.dark {
+    font-size: 2em;
+    text-align: center;
+    border: 3px solid #82624c;
+    padding: 0px;
+}
