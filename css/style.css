@@ -2,6 +2,7 @@
 
 html {
     box-sizing: border-box;
+    height: 100%;
 }
 *, *:before, *:after {
     box-sizing: inherit;
@@ -14,6 +15,9 @@ body {
     background-image: url("../pictures/AstralExpressBackground.webp");
     background-color:rgb(0, 17, 124);
     background-position:center;
+    background-size:cover;
+    background-repeat:no-repeat;
+    height: 100%;
 }
 header {
     grid-area: title;
